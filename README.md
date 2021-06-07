@@ -8,3 +8,8 @@ To check the health of the computer.
 ### Via Github
 #### Via Github
 ##### Via Github
+
+# Via GitLab
+## Via GitLab
+### Via GitLab
+#### Via GitLab
