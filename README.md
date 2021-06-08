@@ -1,5 +1,5 @@
 # health-checks
-To check the health of the computer.
+To give access via github check the health of the computer.
 
 # add another line in README.md
 
