@@ -5,9 +5,14 @@ function func1() {
 }
 
 function func2() {
-    onsole.log('fjnrfjn')
+    console.log('fjnrfjn');
+}
+
+function func3(){
+    console.log('dfnfrnfir');
 }
 
 
-func1()
-func2()
+func1();
+func2();
+func3();
